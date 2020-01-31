@@ -1,0 +1,16 @@
+<html 
+<head>
+<title>basics</title>
+</head>
+<body bgcolor="green"/>
+<h1 align ="center">submission status</h1>
+<h5><i>Assignment submission is successfull!</i><h5>
+<p>this is our 3<sup>rd</sup> lab session</p>
+<p>H<sub>2</sub>O<sub>is water</sub>
+<br/>
+<br/>
+<p> the grades will be updated soon</p>
+<hr color="black"/>
+<p align="right">thank you</p>
+</body>
+</html>
