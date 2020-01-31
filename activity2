@@ -1,0 +1,39 @@
+<html 
+<head>
+<title>basics</title>
+</head>
+<body bgcolor="pink"/>
+<h1 align ="center">submission status</h1>
+<h5><i>Congratulations!!your assignment submission is successfull!</i><h5>
+<p>the reward for correct submission lets you win a dree coupon from presidency university</p>
+<br/>
+
+<hr color="black"></hr>
+<h2>restaurent menu</h2>
+<ol type="i">
+<li>south indian
+<ul type="circle">
+<li>breakfast
+<ul type="square">
+<li>idly sambar</li>
+<li>masala dosa</li>
+</ul>
+<li>meals
+<ul type="square">
+<li>full meals</li>
+<li>meals</li>
+</ul>
+<li>north indian
+<ul type="circle">
+<li>meals
+<ul type="square">
+<li>full meals</li>
+<li>meals</li>
+</ul>
+<li>breakfast
+<ul type="square">
+<li>roti curry</li>
+<li>pavbhaji</li>
+</ul>
+</body>
+</html>
